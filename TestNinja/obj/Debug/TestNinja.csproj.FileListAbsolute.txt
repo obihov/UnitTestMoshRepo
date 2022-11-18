@@ -25,3 +25,17 @@ C:\Users\javao\OneDrive\Desktop\Organization\IDEs\Rider_Projects\Mosh_Tutorial\U
 C:\Users\javao\OneDrive\Desktop\Organization\IDEs\Rider_Projects\Mosh_Tutorial\UnitTestingTutorial\TestNinja\TestNinja\obj\Debug\TestNinja.csproj.AssemblyReference.cache
 C:\Users\javao\OneDrive\Desktop\Organization\IDEs\Rider_Projects\Mosh_Tutorial\UnitTestingTutorial\TestNinja\TestNinja\obj\Debug\TestNinja.csproj.CoreCompileInputs.cache
 C:\Users\javao\OneDrive\Desktop\Organization\IDEs\Rider_Projects\Mosh_Tutorial\UnitTestingTutorial\TestNinja\TestNinja\obj\Debug\TestNinja.csproj.CopyComplete
+C:\Users\ObiHov\OneDrive\Desktop\Organization\IDEs\Rider_Projects\Mosh_Tutorial\UnitTestingTutorial\TestNinja\TestNinja\bin\Debug\TestNinja.dll.config
+C:\Users\ObiHov\OneDrive\Desktop\Organization\IDEs\Rider_Projects\Mosh_Tutorial\UnitTestingTutorial\TestNinja\TestNinja\bin\Debug\TestNinja.dll
+C:\Users\ObiHov\OneDrive\Desktop\Organization\IDEs\Rider_Projects\Mosh_Tutorial\UnitTestingTutorial\TestNinja\TestNinja\bin\Debug\TestNinja.pdb
+C:\Users\ObiHov\OneDrive\Desktop\Organization\IDEs\Rider_Projects\Mosh_Tutorial\UnitTestingTutorial\TestNinja\TestNinja\bin\Debug\EntityFramework.dll
+C:\Users\ObiHov\OneDrive\Desktop\Organization\IDEs\Rider_Projects\Mosh_Tutorial\UnitTestingTutorial\TestNinja\TestNinja\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ObiHov\OneDrive\Desktop\Organization\IDEs\Rider_Projects\Mosh_Tutorial\UnitTestingTutorial\TestNinja\TestNinja\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ObiHov\OneDrive\Desktop\Organization\IDEs\Rider_Projects\Mosh_Tutorial\UnitTestingTutorial\TestNinja\TestNinja\bin\Debug\EntityFramework.xml
+C:\Users\ObiHov\OneDrive\Desktop\Organization\IDEs\Rider_Projects\Mosh_Tutorial\UnitTestingTutorial\TestNinja\TestNinja\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ObiHov\OneDrive\Desktop\Organization\IDEs\Rider_Projects\Mosh_Tutorial\UnitTestingTutorial\TestNinja\TestNinja\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ObiHov\OneDrive\Desktop\Organization\IDEs\Rider_Projects\Mosh_Tutorial\UnitTestingTutorial\TestNinja\TestNinja\obj\Debug\TestNinja.csproj.AssemblyReference.cache
+C:\Users\ObiHov\OneDrive\Desktop\Organization\IDEs\Rider_Projects\Mosh_Tutorial\UnitTestingTutorial\TestNinja\TestNinja\obj\Debug\TestNinja.csproj.CoreCompileInputs.cache
+C:\Users\ObiHov\OneDrive\Desktop\Organization\IDEs\Rider_Projects\Mosh_Tutorial\UnitTestingTutorial\TestNinja\TestNinja\obj\Debug\TestNinja.csproj.CopyComplete
+C:\Users\ObiHov\OneDrive\Desktop\Organization\IDEs\Rider_Projects\Mosh_Tutorial\UnitTestingTutorial\TestNinja\TestNinja\obj\Debug\TestNinja.dll
+C:\Users\ObiHov\OneDrive\Desktop\Organization\IDEs\Rider_Projects\Mosh_Tutorial\UnitTestingTutorial\TestNinja\TestNinja\obj\Debug\TestNinja.pdb
