@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "jZ7xBxXIcJP/vfxaKqd+xG/oUO5Ukz2MUg+om/gFHbeJyJxmnQELM2VF0wDYslzOj4Mvx+JnAat+F8KLutslZw==",
+  "dgSpecHash": "lkspNLdB9vAZDJjCI38gCwmim8wYceHfHBszOFhUgqcwCM5x42iCvVKFUzSRr5HmPrahZlEkbIJOGVUdr6+FmA==",
   "success": true,
   "projectFilePath": "C:\\Users\\ObiHov\\OneDrive\\Desktop\\Organization\\IDEs\\Rider_Projects\\Mosh_Tutorial\\UnitTestingTutorial\\TestNinja\\TestNinja.UnitTests\\TestNinja.UnitTests.csproj",
   "expectedPackageFiles": [
@@ -17,7 +17,7 @@
     "C:\\Users\\ObiHov\\.nuget\\packages\\nuget.frameworks\\5.11.0\\nuget.frameworks.5.11.0.nupkg.sha512",
     "C:\\Users\\ObiHov\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512",
     "C:\\Users\\ObiHov\\.nuget\\packages\\nunit.analyzers\\3.5.0\\nunit.analyzers.3.5.0.nupkg.sha512",
-    "C:\\Users\\ObiHov\\.nuget\\packages\\nunit3testadapter\\4.2.1\\nunit3testadapter.4.2.1.nupkg.sha512",
+    "C:\\Users\\ObiHov\\.nuget\\packages\\nunit3testadapter\\4.3.0\\nunit3testadapter.4.3.0.nupkg.sha512",
     "C:\\Users\\ObiHov\\.nuget\\packages\\system.collections\\4.0.11\\system.collections.4.0.11.nupkg.sha512",
     "C:\\Users\\ObiHov\\.nuget\\packages\\system.diagnostics.debug\\4.0.11\\system.diagnostics.debug.4.0.11.nupkg.sha512",
     "C:\\Users\\ObiHov\\.nuget\\packages\\system.diagnostics.tools\\4.0.1\\system.diagnostics.tools.4.0.1.nupkg.sha512",

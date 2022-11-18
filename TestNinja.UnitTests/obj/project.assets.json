@@ -425,7 +425,7 @@
       "NUnit.Analyzers/3.5.0": {
         "type": "package"
       },
-      "NUnit3TestAdapter/4.2.1": {
+      "NUnit3TestAdapter/4.3.0": {
         "type": "package",
         "build": {
           "build/netcoreapp2.1/NUnit3TestAdapter.props": {}
@@ -1912,10 +1912,10 @@
         "tools/uninstall.ps1"
       ]
     },
-    "NUnit3TestAdapter/4.2.1": {
-      "sha512": "kgH8VKsrcZZgNGQXRpVCrM7TnNz9li3b/snH+YmnXUNqsaWa1Xw9EQWHpbzq4Li2FbTjTE/E5N5HdLNXzZ8BpQ==",
+    "NUnit3TestAdapter/4.3.0": {
+      "sha512": "oXlDbkGW01VPPgI8P/XQ+PZHqaJoWtV90WuAkR0yN8HC3hiPivy2AaBZP3lqOql4RFqdxvF5qYSuaeWI+7/wGg==",
       "type": "package",
-      "path": "nunit3testadapter/4.2.1",
+      "path": "nunit3testadapter/4.3.0",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -1933,7 +1933,7 @@
         "build/netcoreapp2.1/nunit.engine.core.dll",
         "build/netcoreapp2.1/nunit.engine.dll",
         "build/netcoreapp2.1/testcentric.engine.metadata.dll",
-        "nunit3testadapter.4.2.1.nupkg.sha512",
+        "nunit3testadapter.4.3.0.nupkg.sha512",
         "nunit3testadapter.nuspec"
       ]
     },
@@ -3978,7 +3978,7 @@
       "Microsoft.NET.Test.Sdk >= 17.1.0",
       "NUnit >= 3.13.3",
       "NUnit.Analyzers >= 3.5.0",
-      "NUnit3TestAdapter >= 4.2.1",
+      "NUnit3TestAdapter >= 4.3.0",
       "TestNinja >= 1.0.0",
       "coverlet.collector >= 3.1.2"
     ]
@@ -4047,7 +4047,7 @@
           },
           "NUnit3TestAdapter": {
             "target": "Package",
-            "version": "[4.2.1, )"
+            "version": "[4.3.0, )"
           },
           "coverlet.collector": {
             "target": "Package",
