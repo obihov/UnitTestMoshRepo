@@ -22,6 +22,5 @@
   </ImportGroup>
   <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
     <PkgNUnit_Analyzers Condition=" '$(PkgNUnit_Analyzers)' == '' ">C:\Users\ObiHov\.nuget\packages\nunit.analyzers\3.5.0</PkgNUnit_Analyzers>
-    <PkgNewtonsoft_Json Condition=" '$(PkgNewtonsoft_Json)' == '' ">C:\Users\ObiHov\.nuget\packages\newtonsoft.json\9.0.1</PkgNewtonsoft_Json>
   </PropertyGroup>
 </Project>
