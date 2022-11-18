@@ -8,6 +8,13 @@ public class StackTests
     //Test here can be conflicting.
     //Stack is in two conflicting namespace.
     //Make sure to use the TestNinja.Fundamentals
+
+    [SetUp]
+    public void Setup()
+    {
+        
+    }
+    
     
     [Test]
     [TestCase(null)]

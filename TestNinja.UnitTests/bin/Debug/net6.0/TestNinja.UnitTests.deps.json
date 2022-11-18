@@ -10,7 +10,7 @@
         "dependencies": {
           "Microsoft.NET.Test.Sdk": "17.1.0",
           "NUnit": "3.13.3",
-          "NUnit.Analyzers": "3.3.0",
+          "NUnit.Analyzers": "3.5.0",
           "NUnit3TestAdapter": "4.2.1",
           "TestNinja": "1.0.0",
           "coverlet.collector": "3.1.2"
@@ -359,7 +359,7 @@
           }
         }
       },
-      "NUnit.Analyzers/3.3.0": {},
+      "NUnit.Analyzers/3.5.0": {},
       "NUnit3TestAdapter/4.2.1": {},
       "System.Collections/4.0.11": {
         "dependencies": {
@@ -758,12 +758,12 @@
       "path": "nunit/3.13.3",
       "hashPath": "nunit.3.13.3.nupkg.sha512"
     },
-    "NUnit.Analyzers/3.3.0": {
+    "NUnit.Analyzers/3.5.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-gyRc0qmXUIjHaTcHTWZDHK5ccOF6cLEOGQJ6Fj5JWKh8/W1XzPFC6zGXRu5sDNSxfKaNeQRmkdz3M73ArQkY1A==",
-      "path": "nunit.analyzers/3.3.0",
-      "hashPath": "nunit.analyzers.3.3.0.nupkg.sha512"
+      "sha512": "sha512-uvYCAqtZrY9RZc1ErVREvcYr828uy4RmTZYfMPN5FrahvJp/b2+QEgsJISzU3cbxLc9IBBlEOBa9d4t6ejFM2Q==",
+      "path": "nunit.analyzers/3.5.0",
+      "hashPath": "nunit.analyzers.3.5.0.nupkg.sha512"
     },
     "NUnit3TestAdapter/4.2.1": {
       "type": "package",
