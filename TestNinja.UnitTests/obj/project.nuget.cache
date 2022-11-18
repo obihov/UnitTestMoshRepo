@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "urQRoeccNXkWxAu2DGzhBkcpXwxYjq6p7ARN9i/r41dFiPeW14i2F65e2WFWYN8xN4TGHI24J5SGbCOAvRmgZA==",
+  "dgSpecHash": "WTn5vZvDtCL54e9ynaUti0PlUrc5lT8XM9wr7+xMupbNp65XdAA0CoZljD9i2EJ9T4F75swIw8k5Wl4fo/muqQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\ObiHov\\OneDrive\\Desktop\\Organization\\IDEs\\Rider_Projects\\Mosh_Tutorial\\UnitTestingTutorial\\TestNinja\\TestNinja.UnitTests\\TestNinja.UnitTests.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\ObiHov\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
+    "C:\\Users\\ObiHov\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
     "C:\\Users\\ObiHov\\.nuget\\packages\\microsoft.codecoverage\\17.5.0-preview-20221003-04\\microsoft.codecoverage.17.5.0-preview-20221003-04.nupkg.sha512",
     "C:\\Users\\ObiHov\\.nuget\\packages\\microsoft.net.test.sdk\\17.5.0-preview-20221003-04\\microsoft.net.test.sdk.17.5.0-preview-20221003-04.nupkg.sha512",
     "C:\\Users\\ObiHov\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
