@@ -66,6 +66,12 @@
     <Compile Include="Mocking\OrderService.cs" />
     <Compile Include="Mocking\Product.cs" />
     <Compile Include="Mocking\VideoService.cs" />
+    <Compile Include="Mock_UseOnly\BookingHelper.cs" />
+    <Compile Include="Mock_UseOnly\EmployeeController.cs" />
+    <Compile Include="Mock_UseOnly\InstallerHelper.cs" />
+    <Compile Include="Mock_UseOnly\OrderService.cs" />
+    <Compile Include="Mock_UseOnly\Product.cs" />
+    <Compile Include="Mock_UseOnly\VideoService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
